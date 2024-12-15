@@ -8,6 +8,7 @@ if(Object.keys(emptyObj).length === 0){
 let val1;
 val1 = 5 ?? 10
 
+
 console.log(val1)
 
 const icetea = 140
